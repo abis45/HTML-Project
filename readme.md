@@ -1,7 +1,24 @@
-## my first respo
+# css project no:1
+# navbars
+# technologies used
+- HTML
+- Taiwind CSS
 
-## project
 
-![project1](./ss2.png)
+## TAILWIND CSS
+- Big screen
+![bigscreen](./Screenshot%20(18).png)
+- small screen
+![smallscreen](./smalltailwind.png)
 
-![project2](./ss1.png)
+## ikea
+- big screen 
+- ![bigscreen](./Screenshot%20(19).png)
+-small screen
+![smallscreen](./smallikea.png)
+
+## shoify
+- big screen 
+- ![bigscreen](./Screenshot%20(20).png)
+- small screen
+- ![smallscreen](./smallshopify.png)
